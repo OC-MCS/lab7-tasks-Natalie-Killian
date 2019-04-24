@@ -10,7 +10,7 @@ using namespace std;
 // Function prototypes
 void loadItems(vector<RetailItem> &items);
 
-
+// demonstrating how to push to github
 int main()
 {
 	vector<RetailItem> stockItems;
